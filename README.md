@@ -17,6 +17,22 @@ Nginx upstream module for the Redis 2.0 protocol
     </thead>
     <tbody>
         <tr>
+            <td>1.21.1</td>
+            <td>master (2020.10)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-redis2-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-redis2-master-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
+            <td>1.21.1</td>
+            <td>0.15 (2018.04)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-redis2-0.15</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-redis2-0.15-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
             <td>1.21.0</td>
             <td>master (2020.10)</td>
             <td><ul>
